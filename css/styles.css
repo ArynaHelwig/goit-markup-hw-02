@@ -149,9 +149,7 @@ ul {
     background-color: #F4F4FD
 }
 
-.team-list {
-    background-color: #FFFFFF
-}
+.team-list {}
 
 .team-main-title {
     color: #2E2F42;
@@ -165,7 +163,9 @@ ul {
     text-transform: capitalize;
 }
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF
+}
 
 .team-title {
     color: #2E2F42;
