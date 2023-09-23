@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -51,7 +51,7 @@ ul {
 
 .header-item-link {
     color: #2E2F42;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -146,7 +146,7 @@ ul {
 
 .feature-text {
     color: #434455;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -160,7 +160,7 @@ ul {
 .team-main-title {
     color: #2E2F42;
     text-align: center;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
@@ -183,7 +183,7 @@ ul {
 
 .team-text {
     color: #434455;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -198,7 +198,7 @@ ul {
 .portfolio-main-title {
     color: #2E2F42;
     text-align: center;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -220,7 +220,7 @@ ul {
 
 .portfolio-text {
     color: #434455;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -250,7 +250,7 @@ ul {
 
 .footer-text {
     color: #F4F4FD;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
