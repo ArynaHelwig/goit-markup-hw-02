@@ -25,8 +25,8 @@ ul {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+    line-height: 1.15;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
 }
 .header-logo-studio {
@@ -78,6 +78,7 @@ ul {
 
 
 /*================MAIN================*/
+.section-one {}
 .main {}
 
 .main-title {
@@ -117,6 +118,8 @@ ul {
 
 
 /*================features================*/
+.feature-section-two{}
+
 .feature-list {}
 
 .feature-item {}
@@ -139,8 +142,8 @@ ul {
 }
 
 /*================TEAM================*/
-.team-main-section {
-}
+.team-section-three {}
+
 .team-main-title {color: #2E2F42;
     text-align: center;
     font-family: Roboto;
@@ -175,6 +178,8 @@ ul {
 .team-item {}
 
 /*================PORTFOLIO================*/
+
+.portfolio-section-four {}
 
 .portfolio-main-title {
     color: #2E2F42;
