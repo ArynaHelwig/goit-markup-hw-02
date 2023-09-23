@@ -178,9 +178,7 @@ ul {
     text-transform: capitalize;
 }
 
-.team-item {
-    background-color: #FFFFFF
-}
+.team-item {}
 
 .team-title {
     color: #2E2F42;
@@ -198,8 +196,6 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
-.team-item {}
 
 /*================PORTFOLIO================*/
 
