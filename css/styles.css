@@ -1,8 +1,4 @@
-body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
-}
+body {}
 
 a {
     text-decoration: none;
@@ -13,14 +9,7 @@ ul {
 }
 
 /*================HEADER================*/
-.header {
-    display: flex;
-    width: 1440px;
-    height: 72px;
-    justify-content: center;
-    align-items: center;
-    flex-shrink: 0;
-}
+.header {}
 
 .header-nav {}
 
@@ -37,7 +26,6 @@ ul {
     line-height: 1.15;
     letter-spacing: 0.02em;
     text-transform: uppercase;
-    width: 71px;
 }
 
 .header-logo-studio {
@@ -93,12 +81,7 @@ ul {
 
 
 /*================MAIN================*/
-.section-one {
-    width: 1440px;
-    height: 600px;
-    flex-shrink: 0;
-    background: #2E2F42;
-}
+.section-one {}
 
 .main {
     width: 1440px;
@@ -145,11 +128,7 @@ ul {
 
 
 /*================features================*/
-.feature-section-two {
-    width: 1440px;
-    height: 3300px;
-    background: #FFF;
-}
+.feature-section-two {}
 
 .feature-list {}
 
@@ -177,7 +156,6 @@ ul {
     width: 1440px;
     height: 732px;
     flex-shrink: 0;
-    background: #F4F4FD;
 }
 
 .team-main-title {
@@ -217,11 +195,7 @@ ul {
 
 /*================PORTFOLIO================*/
 
-.portfolio-section-four {
-    width: 1440px;
-    height: 3300px;
-    background: #FFF;
-}
+.portfolio-section-four {}
 
 .portfolio-main-title {
     color: #2E2F42;
@@ -258,9 +232,6 @@ ul {
 
 /*================FOOTER================*/
 .footer {
-    width: 1440px;
-    height: 312px;
-    flex-shrink: 0;
     background-color: #2e2f42
 }
 
