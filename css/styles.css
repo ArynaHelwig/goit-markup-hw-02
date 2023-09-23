@@ -81,7 +81,6 @@ ul {
 
 
 /*================MAIN================*/
-.section-one {}
 
 .main {
     width: 1440px;
@@ -128,7 +127,6 @@ ul {
 
 
 /*================features================*/
-.feature-section-two {}
 
 .feature-list {}
 
@@ -152,11 +150,7 @@ ul {
 }
 
 /*================TEAM================*/
-.team-section-three {
-    width: 1440px;
-    height: 732px;
-    flex-shrink: 0;
-}
+
 
 .team-main-title {
     color: #2E2F42;
@@ -195,7 +189,6 @@ ul {
 
 /*================PORTFOLIO================*/
 
-.portfolio-section-four {}
 
 .portfolio-main-title {
     color: #2E2F42;
