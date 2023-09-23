@@ -1,5 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
+    color: #434455
 }
 
 a {
@@ -192,7 +193,7 @@ ul {
 .footer {}
 
 .footer-logo-web {
-    color: #4D5AE5;
+    color: #4d5ae5;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -200,7 +201,6 @@ ul {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-
 .footer-logo-studio {
     color: #f4f4fd;
 }
