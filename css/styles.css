@@ -1,6 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 a {
@@ -190,7 +191,7 @@ ul {
 
 
 /*================FOOTER================*/
-.footer {}
+.footer {background-color: #2e2f42}
 
 .footer-logo-web {
     color: #4d5ae5;
